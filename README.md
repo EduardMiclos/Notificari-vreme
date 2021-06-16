@@ -8,3 +8,5 @@ Pași pentru instalare (se găsesc și în Readme-ul release-ului):
 
 Aplicația vă permite să setați orașul în care vă aflați și va rula în background, trimițând, la fiecare oră, informații privind temperatura și situația meteorologică.
 Ea se oprește odată cu oprirea Windows-ului și va porni apăsând pe executabil. Prima dată, veți fi obligați să introduceți orașul, după aceea puteți să îl schimbați opțional.
+
+![image](https://user-images.githubusercontent.com/59684906/122138274-0fef2080-ce4f-11eb-930a-4a67d0ac6548.png)
