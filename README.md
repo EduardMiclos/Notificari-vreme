@@ -10,5 +10,5 @@ Aplicația vă permite să setați orașul în care vă aflați și va rula în 
 Ea se oprește odată cu oprirea Windows-ului și va porni apăsând pe executabil. Prima dată, veți fi obligați să introduceți orașul, după aceea puteți să îl schimbați opțional.
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/59684906/122138274-0fef2080-ce4f-11eb-930a-4a67d0ac6548.png)
+<img src = https://user-images.githubusercontent.com/59684906/122138274-0fef2080-ce4f-11eb-930a-4a67d0ac6548.png>
 </p>
