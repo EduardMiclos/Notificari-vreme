@@ -12,3 +12,7 @@ Ea se oprește odată cu oprirea Windows-ului și va porni apăsând pe executab
 <p align="center">
 <img src = https://user-images.githubusercontent.com/59684906/122138274-0fef2080-ce4f-11eb-930a-4a67d0ac6548.png>
 </p>
+
+<p align="center">
+<img src = https://user-images.githubusercontent.com/59684906/122138382-4cbb1780-ce4f-11eb-9567-68d69ffd5ecf.png>
+</p>
